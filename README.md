@@ -1,62 +1,28 @@
-## Hi there 👋
-# 👋 Hi, I'm Vinayak
+Hey there! 👋
 
-🚀 BCA Student | AI engineer | Cybersecurity Learner
+I'm Vinayak, a BCA student and aspiring AI engineer from India.
 
----
+I like building real-world projects and learning by doing.
 
-## 🧠 About Me
+If something interests me, I try to understand it deeply and turn it into a working project.
+💻 What I Do
 
-* 🎓 Pursuing BCA (Bachelor of Computer Applications)
-* 💻 Learning Python & Django
-* 🔐 Exploring Cybersecurity & Automation
-* 📊 Interested in Trading & Data Analysis
+I work with Python, Django, and automation tools to build useful systems.
 
----
+Currently, I'm exploring:
 
-## 🚀 Projects
+Artificial Intelligence 🤖
 
-* Jobshield AI
-* **n8n Automation Workflows**
+Cybersecurity 🔐
 
----
+Automation workflows (n8n) ⚙️
 
-## 🛠️ Skills
+🧠 Skills
 
-* Python (Basics to Intermediate)
-* Django (Backend Development - Learning Phase)
-* AI Tools & AI Agents (Beginner Level)
-* n8n Automation Workflows
-* Linux & Kali Linux (Basic Usage)
-* Cybersecurity Fundamentals
-* Digital Marketing (Basic Knowledge)
+AI tools & agents
 
----
+n8n automation
 
-## 📊 GitHub Stats
+Git & GitHub
 
----
-
-## 🌐 Connect
-
-* GitHub: [https://github.com/Coolest23](https://github.com/Coolest23)
-* LinkedIn: [www.linkedin.com/in/vinayak-shadal-15644824b](http://www.linkedin.com/in/vinayak-shadal-15644824b)
-
----
-
-⚡ Learning by building.
-
-<!--
-**Coolest23/Coolest23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux / Kali Linux (basics)
