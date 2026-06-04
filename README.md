@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Vinayak
 
-I am a BCA student and an aspiring **SOC / Cybersecurity Analyst** passionate about defensive security, log analysis, threat hunting, and blue-teaming. I focus on bridging theoretical knowledge with practical, hands-on lab deployments.
+I am a BCA student and an aspiring **SOC / Cybersecurity Analyst** passionate about defensive security, log analysis, threat hunting, and blue-teaming. I focus on bridging theoretical knowledge with practical,  hands-on lab deployments.
 
 ---
 
